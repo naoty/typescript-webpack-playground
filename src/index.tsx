@@ -1,7 +1,9 @@
 import * as React from "react";
 import * as ReactDOM from "react-dom";
 
+import { Hello, HelloProps } from "./components/Hello";
+
 ReactDOM.render(
-  <h1>Hello, react!</h1>,
+  <Hello compiler="TypeScript" framework="React" />,
   document.getElementById("container")
 );

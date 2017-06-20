@@ -4,6 +4,7 @@
   "author": "Naoto Kaneko <naoty.k@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "typescript": "^2.3.4"
+    "typescript": "^2.3.4",
+    "webpack": "^3.0.0"
   }
 }
